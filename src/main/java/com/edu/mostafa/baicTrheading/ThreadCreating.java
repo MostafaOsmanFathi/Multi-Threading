@@ -1,4 +1,4 @@
-package com.edu.mostafa;
+package com.edu.mostafa.baicTrheading;
 
 /*
  * Main thread has the highest Priority

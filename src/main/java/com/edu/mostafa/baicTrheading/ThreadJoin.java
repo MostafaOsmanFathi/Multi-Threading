@@ -1,4 +1,4 @@
-package com.edu.mostafa;
+package com.edu.mostafa.baicTrheading;
 
 public class ThreadJoin {
     public static void main(String[] args) throws InterruptedException {
